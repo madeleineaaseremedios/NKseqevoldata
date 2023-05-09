@@ -1,0 +1,1 @@
+(Erow_Tlx_MH036371,(((Dmel_C15_FBgn0004863,Tcas_C15_TC011749),Smar_Tlx_Smar_004160),(Isca_Tlx_XP_040065059.1,(Popi_Tlx_comp177829_c0_seq3_manual,((((Ptep_Tlx-B_XP_015923269.1,Abru_Tlx-B_g6383.t1), Dsil_Tlx-B_none_INVERSION_manual),Cscu_Tlx-B_CSCU030322),(((Ptep_Tlx-A_XP_015909792.1,Abru_Tlx-A_g20489.t1),Dsil_Tlx-A_DSIL_00019922-RA_manual),Cscu_Tlx-A_CSCU006452_manual))))));

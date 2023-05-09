@@ -1,0 +1,2 @@
+(Erow_NK3_MH036364_GJGW01034246.1,(((Dmel_bap_FBgn0004862,Tcas_Bap_TC012743),Smar_NK3_Smar_002374),(
+Isca_NK3_XP_042148766.1_manual,(Popi_NK3_comp61762_c0_seq2_manual_partial,(Dsil_NK3-B_DSIL_00055895-RA_manual,(Cscu_NK3-A_CSCU006454,(Dsil_NK3-A_00005496-RA,(Abru_NK3-A_g20491.t1,Ptep_NK3-A_XP_015909782.1))))))));
