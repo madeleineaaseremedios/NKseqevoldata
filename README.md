@@ -3,7 +3,7 @@ Data underpinning coding sequence evolution comparisons of arthropod NK genes
 
 Aase-Remedios et al. (2023) MBE doi:
 
-This dataset contains 5 file types:
+This dataset contains 5 file types for each gene family:
 
 1. Fasta formatted coding sequences for each of the NK gene families.
 2. Fasta formatted amino acid alignments for each of the NK gene families.
