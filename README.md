@@ -1,7 +1,7 @@
 # NKseqevoldata
 Data underpinning coding sequence evolution comparisons of arthropod NK genes
 
-Aase-Remedios et al. (2023) MBE doi:
+Aase-Remedios et al. (2023) MBE doi: https://doi.org/10.1093/molbev/msad239
 
 This dataset contains 5 file types for each gene family:
 
